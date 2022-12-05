@@ -13,6 +13,8 @@ This project uses existing starter code which was modified to meet accessibility
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
+Deployed website link below:
+https://nicholasbrink.github.io/Challenge1/
 
 ![Screenshot_20221205_100440](https://user-images.githubusercontent.com/117687727/205614482-227503aa-e21d-432a-884f-c2132b633893.png)
 
