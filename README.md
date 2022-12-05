@@ -14,6 +14,8 @@ This project uses existing starter code which was modified to meet accessibility
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 
+<img src="assets\images\Screenshot_20221205_100440.png" alt="Horiseon Website screenshot">
+
 ### Credits 
 
 Pod 4 breakout group in UK-VIRT-FE-PT-11-2022-U
